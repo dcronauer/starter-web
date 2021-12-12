@@ -19,6 +19,8 @@ can be on any web server or even local file system.
 
 ## How To Contribute
 
+Please fork this repository and then issue pull requests for review.
+
 ### Copyright
 
 2021 Git.Training.
